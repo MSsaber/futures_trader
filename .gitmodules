@@ -1,0 +1,3 @@
+[submodule "trader_sql_api"]
+	path = trader_sql_api
+	url = https://github.com/MSsaber/trader_sql_api.git
